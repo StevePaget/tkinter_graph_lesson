@@ -1,8 +1,5 @@
-import sqlite3 as sql
 import tkinter as tk
 from tkinter import font as tkFont
-from collections import defaultdict
-
 
 class Main(tk.Tk):
 
